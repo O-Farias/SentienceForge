@@ -54,7 +54,7 @@ SentienceForge/
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/sentienceforge.git
+   git clone https://github.com/O-Farias/sentienceforge.git
    cd sentienceforge
    ```
 
